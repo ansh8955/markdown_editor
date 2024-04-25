@@ -1,0 +1,13 @@
+.right-side{
+
+
+width: 100%;
+border: 1px solid black;
+height: 39.5vh;
+
+}
+
+.center-div{
+    display: flex;
+    flex-direction: row;
+}
